@@ -1,0 +1,9 @@
+train: /home/jetson/yolov7/dataset/images/train/
+val:  /home/jetson/yolov7/dataset/images/val/
+test: /home/jetson/yolov7/dataset/images/test/
+
+# number of classes
+nc: 3
+
+# class names
+names: ["helmet","person", "head"]
